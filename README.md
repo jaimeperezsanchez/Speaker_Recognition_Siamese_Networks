@@ -11,5 +11,5 @@
 </p>
 
 
-#### Click on the image to be redirected to the YouTube video
+### Click on the image to be redirected to the YouTube video
 [![YouTube](video_frame.png)](https://www.youtube.com/watch?v=uUcmeUlxgRs)
